@@ -6,7 +6,8 @@ The Mountain Car problem is typically formulated as a continuous control problem
 
 The goal of the Mountain Car problem is for the car to learn a policy that will allow it to reach the top of the hill as quickly as possible, without exceeding certain limits on its acceleration or velocity. This requires the car to learn how to balance its need for speed with the need to navigate the winding road and avoid crashing. The problem is considered solved when the car reaches the summit of the hill within a certain time limit, or when it has reached a sufficiently high position on the hill.
 
-
+<br>
+<br>
 There are several approaches to solving the Mountain Car problem using Reinforcement Learning. One popular approach is to use a variant of Q-learning known as Deep Q-Network (DQN).
 
 DQN involves training a neural network to estimate the optimal action-value function, which represents the expected future rewards for taking a particular action in a particular state. The network takes in the current state of the car as input and outputs the expected rewards for each possible action.
