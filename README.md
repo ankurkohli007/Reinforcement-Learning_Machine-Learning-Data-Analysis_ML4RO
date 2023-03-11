@@ -19,7 +19,7 @@ To deal with the continuous action space, DQN can be combined with an approach k
 In summary, the solution to the Mountain Car problem using Reinforcement Learning involves training a neural network to estimate the optimal action-value function and the policy function, using a combination of DQN and actor-critic approaches. The resulting policy should allow the car to navigate the winding road and build up enough momentum to reach the top of the hill within the specified time limit or reach a high enough position on the hill.
 
 
-https://www.youtube.com/watch?v=dLP-2Y6yu70
+
 
 
 
