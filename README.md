@@ -1,10 +1,5 @@
 # Reinforcement-Learning_Machine-Learning-Data-Analysis_ML4RO
 
-The Mountain Car problem is a classic benchmark problem in the field of Reinforcement Learning. In this problem, an underpowered car is tasked with reaching the top of a steep hill. The car must navigate a winding road that leads to the summit, and it must do so without being able to simply drive straight up the hill. This means that the car must learn how to use momentum to its advantage, building up speed on downhill stretches so that it can make it up the subsequent inclines.
-
-The Mountain Car problem is typically formulated as a continuous control problem, meaning that the car's actions are represented as continuous values rather than discrete actions. Specifically, the car can choose to accelerate left, accelerate right, or take no action. The car's state is represented by its position on the road and its velocity, both of which can take on continuous values.
-
-The goal of the Mountain Car problem is for the car to learn a policy that will allow it to reach the top of the hill as quickly as possible, without exceeding certain limits on its acceleration or velocity. This requires the car to learn how to balance its need for speed with the need to navigate the winding road and avoid crashing. The problem is considered solved when the car reaches the summit of the hill within a certain time limit, or when it has reached a sufficiently high position on the hill.
 
 <br>
 <br>
